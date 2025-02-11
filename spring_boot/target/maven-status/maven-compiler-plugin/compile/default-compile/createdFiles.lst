@@ -1,0 +1,10 @@
+com\app\carpool\controller\UserController.class
+com\app\carpool\controller\RideController.class
+com\app\carpool\CarpoolController.class
+com\app\carpool\service\RideService.class
+com\app\carpool\CarpoolApplication.class
+com\app\carpool\repository\UserRepository.class
+com\app\carpool\repository\RideRepository.class
+com\app\carpool\model\Ride.class
+com\app\carpool\model\User.class
+com\app\carpool\model\RideStatus.class
